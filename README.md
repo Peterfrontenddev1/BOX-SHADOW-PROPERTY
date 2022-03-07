@@ -1,6 +1,6 @@
 # BOX-SHADOW-PROPERTY
 BOX SHADOW STYLING
 GREEN {
-box-shadow: offsetX offsetY color;
+box-shadow: offsetX offsetY blurradius color;
 
 }
