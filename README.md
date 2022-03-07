@@ -1,5 +1,5 @@
 # BOX-SHADOW-PROPERTY
 BOX SHADOW STYLING
 GREEN {
-box-shadow: 
+box-shadow: offsetX offsetY color;
 }
